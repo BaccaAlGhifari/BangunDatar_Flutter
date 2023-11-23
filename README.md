@@ -1,17 +1,19 @@
-# bacca_al
-
 Aplikasi Bangun Datar
+Project Flutter Pertama Saya
 
-## Getting Started
+Berikut Screenshoot Tampilan
 
-This project is a starting point for a Flutter application.
+Halaman Utama
+![image](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/4c49918c-4b05-4086-a34e-7b272d64e2ad)
 
-A few resources to get you started if this is your first Flutter project:
+Persegi
+![image](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/ae06a9e2-cae9-48e5-a165-9d8d871acaf2)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Persegi Panjang
+![image](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/d124918f-25e6-4cc7-a150-24e5662795d0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![15-twibbon-hut-pdi-perjuangan-bisa-diunggah-di-media-sosial_169](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/6be64c84-d82b-49c1-8dca-b0e656a6b305)
+Segitiga
+![image](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/6f94efd0-06d5-4bf2-a72b-a188e77a9d6b)
+
+Lingkaran
+![image](https://github.com/BaccaAlGhifari/BangunDatar_Flutter/assets/115200268/b78976af-697c-4fcd-900b-84a1b81e5803)
